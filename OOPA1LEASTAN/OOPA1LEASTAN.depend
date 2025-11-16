@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1737388352 source:d:\object oriented programming\l6oopa1 2024 lea stan\oopa1leastan\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<string>
+
